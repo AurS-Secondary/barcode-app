@@ -1,0 +1,664 @@
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent; /* Hapus highlight biru saat klik di mobile */
+  margin: 0;
+  padding: 0;
+}
+
+.struk {
+  font-family: monospace !important;
+  font-size: 13px !important;
+  line-height: 1.2 !important;
+  white-space: pre !important;
+}
+
+body {  
+  margin: 0;  
+  font-family: system-ui, -apple-system, sans-serif; /* Tambahkan fallback font */
+  background: #0f172a;  
+  color: white;  
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden; /* Tetap hidden kalau kamu mau scrolling hanya di #app */
+}
+
+/* Tambahkan di file CSS kamu */
+#video {
+  border: 4px solid #ccc;
+}
+.scanning {
+  border-color: #16a34a !important;
+  box-shadow: 0 0 15px rgba(22, 163, 74, 0.5);
+}
+
+/* ================= ANIMASI ================= */
+/* .fade-in {  
+  animation: fadeIn .2s ease;  
+}   */
+
+@keyframes fadeIn {  
+  from {opacity:0; transform:scale(.98);}  
+  to {opacity:1; transform:scale(1);}  
+}
+
+.font-inter{
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.animate-modal {  
+  animation: pop .18s ease;  
+}  
+
+@keyframes pop {  
+  from {transform: scale(0.95); opacity: 0;}  
+  to {transform: scale(1); opacity: 1;}  
+}
+
+/* ================= HEADER & APP ================= */
+.header {  
+  text-align: center;  
+  padding: 14px;  
+  background: #111c36;  
+}  
+
+#app {
+  padding: 14px;
+  height: calc(100vh - 140px); /* FIX: tambah ruang navbar */
+  overflow-y: auto;
+  padding-bottom: 180px; /* biar konten tidak ketutup tombol bawah */
+}
+
+/* 2. Custom Scrollbar (Biar makin pro di Desktop) */
+#app::-webkit-scrollbar {
+  width: 5px;
+}
+#app::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 10px;
+}
+
+/* ================= CARD ================= */
+
+@keyframes cartPop {
+  0% {
+    transform: translateX(40px);
+    opacity: 0;
+  }
+  60% {
+    transform: translateX(-6px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.cart-item {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  margin-bottom: 10px;
+/* animation: fadeIn .2s ease;   */
+}
+
+.cart-item.flash {
+  background: rgba(34, 197, 94, 0.15);
+  transition: 0.3s;
+}
+
+.card {  
+  background: #1e293b;  
+  padding: 14px;  
+  border-radius: 16px;  
+  margin-bottom: 12px;  
+}
+
+/* ================= BUTTON ================= */
+button {  
+  border: none;  
+  padding: 12px;  
+  border-radius: 12px;  
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.1s ease, opacity 0.1s ease;
+  display: flex; /* Biar icon & teks gampang di-center */
+  align-items: center;
+  justify-content: center;
+}
+
+button:active {
+  transform: scale(0.96);
+  opacity: 0.8;
+}
+
+.btn {  
+  background: linear-gradient(135deg, #3b82f6, #06b6d4);  
+  color: white;  
+}
+
+.bottom-space {
+  height: 160px;
+}
+
+/* Animasi goyang untuk error */
+@keyframes shake {
+  0%, 100% { transform: translateX(-50%); }
+  20%, 60% { transform: translateX(-55%); }
+  40%, 80% { transform: translateX(-45%); }
+}
+
+.popup-error {
+  animation: shake 0.3s ease-in-out;
+}
+
+/* ================= NAVBAR ================= */
+.navbar {  
+  position: fixed;   
+  bottom: 0; left: 0; right: 0;   
+  display: flex;   
+  background: rgba(17, 28, 54, 0.95); /* Sedikit transparan */
+  backdrop-filter: blur(10px); /* Efek blur kaca */
+  padding: 10px 14px;
+  gap: 10px;
+  height: 75px;
+  border-top: 1px solid #1e293b;
+}  
+
+.navbar button {  
+  flex: 1;  
+  background: #1e293b;  
+  color: white;  
+}
+
+/* ================= FAB ================= */
+.fab {  
+  position: fixed;  
+  bottom: 100px;  
+  right: 20px;  
+  width: 60px;  
+  height: 60px;  
+  border-radius: 50%;  
+  background: linear-gradient(135deg, #3b82f6, #06b6d4);  
+  color: white;  
+  font-size: 30px;  
+  display: flex;  
+  align-items: center;  
+  justify-content: center;  
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);  
+  cursor: pointer;  
+}
+
+.fab:active {  
+  transform: scale(0.9);  
+}
+
+/* ================= PRINT PREVIEW ================= */
+.print-preview {  
+  background: white;  
+  color: black;  
+  padding: 12px;  
+  border-radius: 10px;  
+  line-height: 1.4;  
+  white-space: pre;  
+  width: 280px;  
+  margin: 10px auto;  
+  text-align: left;  
+  box-shadow: 0 6px 15px rgba(0,0,0,0.3);  
+}
+
+/* ================= MODAL ================= */
+.modal-bg {  
+  position: fixed;  
+  inset: 0;  
+  background: rgba(0,0,0,0.6);  
+  display: flex;  
+  justify-content: center;  
+  align-items: center;  
+  z-index: 999;  
+}  
+
+.modal {  
+  width: 90%;  
+  max-width: 360px;  
+  background: #1e293b;  
+  border-radius: 18px;  
+  padding: 16px;  
+  position: relative;  
+  animation: pop .18s ease;
+}
+
+/* ================= INPUT ================= */
+.input {  
+  width: 100%;  
+  padding: 14px;  
+  border-radius: 12px;  
+  border: 1px solid #334155;  
+  background: #0f172a;  
+  color: white;  
+  font-size: 15px;  
+  outline: none;  
+  box-sizing: border-box;  
+  margin-bottom: 10px;
+}  
+
+.input:focus {  
+  border-color: #3b82f6;  
+  box-shadow: 0 0 0 2px rgba(59,130,246,0.3);  
+}  
+
+.input::placeholder {  
+  color: #64748b;  
+}
+
+/* ================= LABEL ================= */
+.label {  
+  font-size: 13px;  
+  opacity: 0.7;  
+  margin-bottom: 4px;  
+  display: block;  
+}
+
+/* ================= MODAL BUTTONS ================= */
+.modal-actions {  
+  display: flex;  
+  gap: 8px;  
+  margin-top: 10px;  
+}  
+
+.save-btn {  
+  flex: 1;  
+  background: #22c55e;  
+  color: white;  
+}  
+
+.delete-btn {  
+  flex: 1;  
+  background: #ef4444;  
+  color: white;  
+}  
+
+.cancel-btn {  
+  flex: 1;  
+  background: #334155;  
+  color: white;  
+}
+
+/* ================= EXIT ================= */
+.exit-btn {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  background: transparent;
+  font-size: 18px;
+  color: var(--text-primary);
+}
+
+
+
+/* ================= FAB POSITIONS MENT ================= */
+
+.total-text {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--accent);
+}
+
+.fab-small-left {
+  position: fixed;
+  bottom: 100px;
+  left: 20px;
+  background: #ef4444;
+  color: white;
+  padding: 14px 18px;
+  border-radius: 14px;
+  width: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.fab-small-right {
+  position: fixed;  
+  bottom: 95px;  
+  right: 25px;  
+  width: 60px;  
+  height: 60px;  
+  border-radius: 50%;
+  color: white;  
+  font-size: 30px;  
+  display: flex;  
+  align-items: center;  
+  justify-content: center;  
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);  
+  cursor: pointer;  
+  background: linear-gradient(135deg, #3b82f6, #06b6d4);
+}
+
+/* .fab-pay {
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  
+  background: #22c55e;
+  color: white;
+  padding: 14px 18px;
+  border-radius: 14px;
+  width: 120px;
+  text-align: center;
+  font-weight: bold;
+} */
+
+.qty-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #0f172a;
+  padding: 6px 10px;
+  border-radius: 12px;
+  border: 1px solid #334155;
+}
+
+.qty-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: #334155;
+  color: white;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qty-btn:active {
+  transform: scale(0.9);
+}
+
+.qty-value {
+  min-width: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* ================= NUMPAD MODAL ================= */
+.numpad-bg{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,0.6);
+  display:flex;
+  align-items:flex-end;
+  justify-content:center;
+  z-index:9999;
+}
+
+.numpad{
+  width:100%;
+  max-width:420px;
+  background:#1e293b;
+  padding:12px;
+  border-radius:18px 18px 0 0;
+  animation: pop .15s ease;
+}
+
+.numpad-display{
+  background:#0f172a;
+  padding:14px;
+  border-radius:12px;
+  font-size:22px;
+  text-align:right;
+  margin-bottom:10px;
+  border:1px solid #334155;
+}
+
+.numpad-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:8px;
+}
+
+.numpad-btn{
+  padding:18px;
+  border-radius:12px;
+  background:#334155;
+  color:white;
+  font-size:18px;
+  text-align:center;
+  cursor:pointer;
+  user-select:none;
+}
+
+.numpad-btn:active{
+  transform:scale(0.95);
+}
+
+.numpad-ok{
+  background:#22c55e;
+}
+
+.numpad-del{
+  background:#ef4444;
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #f8fafc;
+
+  margin: 8px 0 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* --- Bagian Total Harga di Keranjang --- */
+.cart-total-box {
+  background: #1e293b;
+  padding: 16px;
+  border-radius: 12px;
+  margin-top: 20px;
+  border: 2px dashed #334155;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* --- Popup Verifikasi Pembayaran (Checkout) --- */
+.checkout-modal {
+  height: 85vh; /* Tidak menutupi seluruh layar, menyisakan ruang di atas */
+  display: flex;
+  flex-direction: column;
+}
+
+.checkout-list {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  padding-right: 5px;
+}
+
+.checkout-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px dashed #cbd5e1;
+  font-size: 14px;
+}
+
+/* --- Tombol Bayar (Floating di Tengah) --- */
+.fab-pay {
+  position: fixed;
+  bottom: 100px;
+  left: 53%;
+  transform: translateX(-50%);
+  width: 200px;
+  height: 50px;
+  background: #16a34a;
+  color: white;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(22, 163, 74, 0.4);
+  cursor: pointer;
+  z-index: 100;
+}
+
+/* --- Perbaikan Preview Gambar Portrait --- */
+#imgView {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Agar foto portrait penuh tanpa gepeng */
+}
+
+
+
+/*Modif white/dark mode */
+:root {
+  --bg: #0f172a;
+  --text: #f8fafc;
+  --muted: #94a3b8;
+  --surface: #1e293b;
+  --surface-2: #111c36;
+  --surface-3: #0b1120;
+  --border: #334155;
+  --input-bg: #0f172a;
+  --input-border: #334155;
+  --navbar-bg: rgba(17, 28, 54, 0.95);
+  --primary: #3b82f6;
+  --primary-2: #06b6d4;
+  --success: #22c55e;
+  --danger: #ef4444;
+  --shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+
+body.light {
+  --bg: #f8fafc;
+  --text: #0f172a;
+  --muted: #475569;
+  --surface: #ffffff;
+  --surface-2: #e2e8f0;
+  --surface-3: #f1f5f9;
+  --border: #cbd5e1;
+  --input-bg: #ffffff;
+  --input-border: #cbd5e1;
+  --navbar-bg: rgba(255,255,255,0.92);
+  --shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+}
+
+body {
+  background: var(--bg) !important;
+  color: var(--text) !important;
+  transition: background 0.35s ease, color 0.35s ease;
+}
+
+.header,
+.card,
+.modal,
+.numpad,
+.navbar,
+.input,
+.numpad-display,
+.qty-box,
+.cart-total-box,
+.checkout-modal,
+.fab,
+.fab-small-left,
+.fab-small-right,
+.fab-pay,
+.btn,
+.save-btn,
+.delete-btn,
+.cancel-btn,
+.navbar button,
+.print-preview {
+  transition: background-color 0.35s ease, color 0.35s ease, border-color 0.35s ease, box-shadow 0.35s ease, transform 0.25s ease;
+}
+
+.header {
+  position: relative;
+  background: var(--surface-2) !important;
+  color: var(--text) !important;
+}
+
+.card,
+.modal,
+.numpad {
+  background: var(--surface) !important;
+  color: var(--text) !important;
+}
+
+.navbar {
+  background: var(--navbar-bg) !important;
+  border-top: 1px solid var(--border) !important;
+  backdrop-filter: blur(10px);
+}
+
+.navbar button {
+  background: var(--surface) !important;
+  color: var(--text) !important;
+}
+
+.input,
+.numpad-display {
+  background: var(--input-bg) !important;
+  color: var(--text) !important;
+  border: 1px solid var(--input-border) !important;
+}
+
+.qty-box {
+  background: var(--surface-3) !important;
+  border: 1px solid var(--border) !important;
+}
+
+.cart-item {
+  background: var(--surface) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+}
+
+.cart-total-box {
+  background: var(--surface) !important;
+  border: 2px dashed var(--border) !important;
+}
+
+.checkout-item {
+  border-bottom: 1px dashed var(--border) !important;
+}
+
+.section-title {
+  color: var(--text) !important;
+}
+
+.label,
+.subtitle {
+  color: var(--muted) !important;
+}
+
+.theme-toggle {
+  position: absolute;
+  right: 12px;
+  top: 10px;
+  width: 42px;
+  height: 42px;
+  border: none;
+  border-radius: 12px;
+  background: var(--surface) !important;
+  color: var(--text) !important;
+  box-shadow: var(--shadow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.theme-toggle:active {
+  transform: scale(0.94) rotate(10deg);
+}
+
+.theme-pop {
+  animation: themePop 0.25s ease;
+}
+
+@keyframes themePop {
+  0% { transform: scale(0.85) rotate(180deg); }
+  100% { transform: scale(1) rotate(0deg); }
+}

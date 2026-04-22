@@ -1,0 +1,1262 @@
+[
+  {
+    "barcode": "8997018720018",
+    "nama": "Sirup DHT",
+    "harga": 26000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoL52TVx8SBJ7C8d4Oou4GMwK1PHh5C6PWsxAzInw7u7-9ZxVyQcnYWnRS&s=10"
+  },
+  {
+    "barcode": "711844150034",
+    "nama": "Sirup ABC leci",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9MS8YFDG0vdhvqh2pxntzL0xQITNOlksSVXnB_q7j-l8IaMFkbaAypR7w&s=10"
+  },
+  {
+    "barcode": "711844150027",
+    "nama": "Sirup ABC nanas",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1dcY0UkuTNniZlYvVbnsHb0cxc2RDe61sVTAYS15mZv0TI3gao4O0hK1&s=10"
+  },
+  {
+    "barcode": "711844150003",
+    "nama": "Sirup ABC jeruk",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmebB69IRXrQGA7rj5sRFLU2i8Bhq0Utho4w&s"
+  },
+  {
+    "barcode": "8996001600221",
+    "nama": "Kopi 78",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxz8uoUxU05V82oj6dj5RVw0DWoi4KMTmRJxcO-rmO3EBDkgxtgSl_OE&s=10"
+  },
+  {
+    "barcode": "8998866202893",
+    "nama": "Golda",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXK7Irr8chUJrPwJ_6PjAcHkQ_orNYJDU3mJ0cW1fnicuu8njzOtY7eQ&s=10"
+  },
+  {
+    "barcode": "8991002122017",
+    "nama": "Abc kopi susu",
+    "harga": 5000,
+    "image": "https://d3o5ynj98toswl.cloudfront.net/347/150121_ABC_RTD_Kopi_Susu_regular-removebg-preview.png"
+  },
+  {
+    "barcode": "8991002122000",
+    "nama": "Abc choco malt coffe",
+    "harga": 5000,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-14239396/abc_abc_-_choco_malt_coffee_drink_-200ml-_botol_rtd_full02_z09f4xq.jpg"
+  },
+  {
+    "barcode": "8998866202732",
+    "nama": "Milku stroberi",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRRw_xw7xZznQ8qG3IppP2RPFIOxTmoT9ofQvkIlzwM4TusK48yqTMMnQ&s=10"
+  },
+  {
+    "barcode": "8991002121010",
+    "nama": "Good day",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmW5TDc8OpUhapv9Iu0UFSt8rrk08sG3JbTKO9U5riw&s=10"
+  },
+  {
+    "barcode": "8997009510055",
+    "nama": "You C1000",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbASEChPW0P63_NST81dVRmDRNd2flzB9JISeHMAO2Ut2OykktSeXecd2&s=10"
+  },
+  {
+    "barcode": "8886057883665",
+    "nama": "Kratingdaeng",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQI0GwFmxI0TuPt6a-ueWOs6Wl8E6_Dy5EfwhMi9vWdC6QqcgKFmYO132eEY77APBc5s3yh46J7kNDMPOcYPkqBrN-T_ir9aepBkCQe5k&s=10"
+  },
+  {
+    "barcode": "8851123212038",
+    "nama": "M-150",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwRQ8SUttiIug10fXM0sVvh5J4rU0I5nytSbh0eRgSQ&s=10"
+  },
+  {
+    "barcode": "8998866500708",
+    "nama": "Floridina",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6ufxto2BIOYKFoblSspR9qDpuW7HpcYf_g&s"
+  },
+  {
+    "barcode": "8996001600665",
+    "nama": "Cool time",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9rhoTGPNVoo-kmCDZO1iNqLb_l1571hEgg&s"
+  },
+  {
+    "barcode": "8992761145026",
+    "nama": "Sprite kecil",
+    "harga": 5000,
+    "image": "https://arti-assets.sgp1.cdn.digitaloceanspaces.com/renyswalayanku/products/a7f0032a-86ef-49fb-b25f-b7b2cdb7d770.jpg"
+  },
+  {
+    "barcode": "8992761145033",
+    "nama": "Fanta kecil",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwJ-BNyDPaU-uyjgQOqyFL7OYA8EVIFUyGw&s"
+  },
+  {
+    "barcode": "8997035563544",
+    "nama": "Pocari Sweat",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gfM7Lmhrlxs4D18_jt-VIX1AtizJAKv4Uw&s"
+  },
+  {
+    "barcode": "8997218380159",
+    "nama": "Ichitan Brown Sugar",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHLVwokwI39LBMd2Pkks0ELx8ifEJQML4Zo3gMeklRg&s=10"
+  },
+  {
+    "barcode": "8997002050411",
+    "nama": "Soya Botol",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8nI8ZQMYy8nHjc4tJq_dy2G28V-TlLTxHg&s"
+  },
+  {
+    "barcode": "8998866204538",
+    "nama": "Teh Lemon Madu",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKp2Edn0t83HQ-kjm06oDWgxphhIciQBOpRg&s"
+  },
+  {
+    "barcode": "8992761166212",
+    "nama": "Fres Tea Apel",
+    "harga": 5000,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//92/MTA-2389241/frestea_frestea-apel-minuman-ringan--350-ml-_full03.jpg"
+  },
+  {
+    "barcode": "8992761166205",
+    "nama": "Fres Tea Madu",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvA4mH_r9N70jOOHTuKr8Zzn7QV-XdxDlmfTZAmu3zng&s=10"
+  },
+  {
+    "barcode": "8992761002022",
+    "nama": "Sprite Sedang",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YHNlZHmXcqhxK4vzrqaqUhEDc1WM5EjuaQ&s"
+  },
+  {
+    "barcode": "8996001600849",
+    "nama": "Nipis Madu",
+    "harga": 5000,
+    "image": "https://www.sacindonesia.com/uploads/post/2023/08/30/Nipis%20Madu%20sacindonesia.com.jpg"
+  },
+  {
+    "barcode": "8996001600146",
+    "nama": "Teh pucuk",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZRHmLmSDV6iBAuZcHOFcN8zjCyAYkSt27SChIf5R-sg&s=10"
+  },
+  {
+    "barcode": "8992761162023",
+    "nama": "Pulpy",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdGvWfBHJ5n5CIBhIjY4_OGJKdKGF1U2-5b9HswaAqg&s"
+  },
+  {
+    "barcode": "8992761002039",
+    "nama": "Fanta Sedang",
+    "harga": 6000,
+    "image": "https://image.astronauts.cloud/product-images/2024/5/FantaStrawberryBotol390ml_75da97a3-328e-4ef9-8b72-230720cc2a54_900x900.jpg"
+  },
+  {
+    "barcode": "8996001600399",
+    "nama": "Le Minerale Besar",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpYgfDPhaAwwEII32ae5oyXWrGCCkOG1s9I2X1ot4PIZgFyo8e_AUvEI&s=10"
+  },
+  {
+    "barcode": "8886008101091",
+    "nama": "Aqua Besar",
+    "harga": 7000,
+    "image": "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2021/12/7/e68a96a2-f8b4-4fcb-a350-bc7476c2908a.jpg~tplv-aphluv4xwc-resize-jpeg:700:0.jpg"
+  },
+  {
+    "barcode": "8996001600269",
+    "nama": "Le Minerale",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTn7gp87-xDB8KHSWC7EltvAXuy6p6vH4cuA8MVebiTw&s=10"
+  },
+  {
+    "barcode": "8886008101053",
+    "nama": "Aqua Sedang",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9FcnjIeACiNysswZDlfApmt2rTBePKNqmiA46aHtQ6g&s=10"
+  },
+  {
+    "barcode": "8998866632287",
+    "nama": "Aquviva",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwpwnTIVXqRK9bN7suIUTguEIMDEPFESS22QTc_pk3Q&s=10"
+  },
+  {
+    "barcode": "8992752112013",
+    "nama": "Mizone",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuhOGgzvxYZelsM_pa95f1ge6GNOKrzINOtAXoB02E-i_CatY8he0j5RLDHtEJTWOa2f6Cr0Mc0eKA33cFcQ3Ilw4ISHBwipWOeemxQ&s=10"
+  },
+  {
+    "barcode": "8992761111533",
+    "nama": "Sprite Kaleng",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_kcaN7TfV91Sa-rZNDyZCgL4OvFQOg9fwfg&s"
+  },
+  {
+    "barcode": "8992761111519",
+    "nama": "Coca Cola Kaleng",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8QnUpMaNB9PsMrQdmwFCUd4c_Cj2ckB-NEw&s"
+  },
+  {
+    "barcode": "8992761111540",
+    "nama": "Fanta Kaleng",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLjYLKl77wVyJi4NVZkWTpO7v3D9RqorX7w&s"
+  },
+  {
+    "barcode": "9556001047175",
+    "nama": "Nescafe",
+    "harga": 12000,
+    "image": "https://c.alfagift.id/product/1/1_A12790004898_20241125172630738_base.jpg"
+  },
+  {
+    "barcode": "9556001051509",
+    "nama": "Milo kaleng",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiaPoZ1i82kxxSOJkepDwtJSJDyPko6BJCJA&s"
+  },
+  {
+    "barcode": "8999988888828",
+    "nama": "Larutan Cap Badak Strawberry",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScon_7d6q9wwq-pkRMj2fTOrdEqWH-I7q5vg&s"
+  },
+  {
+    "barcode": "8999988888842",
+    "nama": "Larutan Cap Badak Jambu",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRv-9CnHLoaNT0fpgIMFdQo7jjk7U8gQQZoA&s"
+  },
+  {
+    "barcode": "8999988888859",
+    "nama": "Larutan Cap Badak Anggur",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDpqdaEnhChb5NJ-utooI5aD2JtbL9nZUOihI4gmvdA&s=10"
+  },
+  {
+    "barcode": "8999988888811",
+    "nama": "Larutan Cap Badak Jeruk",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDmSj02cYEoYsImoGQ5h2GihHPkUJduX3hlqJIE34SQ&s=10"
+  },
+  {
+    "barcode": "8996001600696",
+    "nama": "Tujuh Kurma Kaleng",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQtvihQYayVC3ydazQaJ86E-5Z9vjeNqgBdn1GPM6bg&s=10"
+  },
+  {
+    "barcode": "8992696404441",
+    "nama": "Bear brand",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5WNIB8Mp2unfft_k8b5PVWYIfdJVS3lfF022TJUhNA&s=10"
+  },
+  {
+    "barcode": "8995333060703",
+    "nama": "Tepung Kompas",
+    "harga": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8X3t4l9_VXj5EQ2C0pHbdTarxC23dQ6_LCFAYhaSAYQ&s=10"
+  },
+  {
+    "barcode": "8997002061974",
+    "nama": "Kerupuk Singkong Pedas Panda",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3pHcSsbE0gW_wYv2bChcIznjnJLNdP5qwTrwswKjyEw&s=10"
+  },
+  {
+    "barcode": "8992770033130",
+    "nama": "Masako",
+    "harga": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYG-CV2zjU1EqMQkEJezyUlmSfLEKdmBE0IY7OezMKvxG5lrH5dRqXts&s=10"
+  },
+  {
+    "barcode": "8994907000428",
+    "nama": "Kecap Sachet",
+    "harga": 500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gZMtRbcrgw3x9Gsp_t9ED983vS1rrGjmSA&s"
+  },
+  {
+    "barcode": "8999909028234",
+    "nama": "Dji sam Soe 12",
+    "harga": 21000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSs1TgksWkbBZlIuTcW4Z0p2Y7Po7fV0LaQ&s"
+  },
+  {
+    "barcode": "8999168211248",
+    "nama": "ESSE Double",
+    "harga": 45000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoj9NFZhaa9j4eWi_Y6UXsAqjYEs5AYYUipA&s"
+  },
+  {
+    "barcode": "8999909000377",
+    "nama": "Sempurna Evolution Merah",
+    "harga": 45000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqas8fH2rERbdOAbKDokUR6bohlKgalMvsUX3jWFLHA&s=10"
+  },
+  {
+    "barcode": "8991918101045",
+    "nama": "Scorpion",
+    "harga": 30000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6FyINS49uYtCjpAxLKkbApSuQ70bz3z2gkadAhyazQ&s=10"
+  },
+  {
+    "barcode": "8999909013278",
+    "nama": "Sempurna gold ??",
+    "harga": 35000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999909096004",
+    "nama": "Sempurna 16",
+    "harga": 37000,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//115/MTA-48854887/sampoerna_rokok_sampoerna_mild_16_full01_00de48ae.jpg"
+  },
+  {
+    "barcode": "8991916101054",
+    "nama": "Troy",
+    "harga": 30000,
+    "image": "https://arti-assets.sgp1.cdn.digitaloceanspaces.com/megaswalayan/products/d0142ddb-7a64-42ff-b34c-8dd4b5de6568.jpg"
+  },
+  {
+    "barcode": "8991906102009",
+    "nama": "LA Ice",
+    "harga": 35000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-h4Gk5m6Vfij0ugNNXw5dekzahVwx56g5a7tU4cw6WWEA-v9WPKmv0&s=10"
+  },
+  {
+    "barcode": "9312412515395",
+    "nama": "Marcopolo",
+    "harga": 28000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6831H5jUeQJEKD0iR5o2K5fzKSKPSa4vh-TSwQMOwg&s=10"
+  },
+  {
+    "barcode": "8991909101016",
+    "nama": "Urban Mild",
+    "harga": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRexlarG_r6G1j2CbJpDBpsvuqnmIGod7Mn4yT8RHDkJQ&s=10"
+  },
+  {
+    "barcode": "8991909101030",
+    "nama": "Urban mild Semangka",
+    "harga": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYtapmUnxkW9mSL9WeiJ4dpgXnSiFIwalHhb8mgjIeA&s=10"
+  },
+  {
+    "barcode": "8997014441726",
+    "nama": "Potenza",
+    "harga": 28000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxWOWsaRuxQTBOboKlvaP-gc6_l0qaSANhPBKqSPT2A&s=10"
+  },
+  {
+    "barcode": "8991906102085",
+    "nama": "LA Mangga",
+    "harga": 35000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOWy571buVpHzHM8ASwBj3qv7PtPw8u-c7EzG8hI6RA&s=10"
+  },
+  {
+    "barcode": "8993319164865",
+    "nama": "NIU",
+    "harga": 27000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AFZjrMJdR_XgRGXrHeZNwdnbZfHi-etJm5v2olNxD06RTCE7TrXP0mfJ&s=10"
+  },
+  {
+    "barcode": "8991906105758",
+    "nama": "LA Bold",
+    "harga": 39000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxggupk8PUoJv0RVGbn5Zi3yssk0nc5lDy0sKy0fCsw&s=10"
+  },
+  {
+    "barcode": "8997241090032",
+    "nama": "Ascot",
+    "harga": 21000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitezCPECYvDk2NOd5z3qEnr2x8v1jhKRNfeUl56skcA&s=10"
+  },
+  {
+    "barcode": "8998989500166",
+    "nama": "Gudang Garam Merah 16",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7T3hbCFAUwdNWM42_FbAAmDg5bKGIyMWILyhZ5nq5A&s=10"
+  },
+  {
+    "barcode": "8993989311279",
+    "nama": "Classmild 12",
+    "harga": 23000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0iE3pOn9G--OHxMPnlANohqB60c_DFkOmtuyf85vDw&s=10"
+  },
+  {
+    "barcode": "8993989752003",
+    "nama": "Classmild 20",
+    "harga": 34000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-IA8HPDyQJI-wrf2Px0JVNOqvaLuG9OfVU7IldmjqQ&s=10"
+  },
+  {
+    "barcode": "8993989311699",
+    "nama": "Classmild 16",
+    "harga": 30000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFleNP6dyUNW9IBcUVEFCwqGHj2FSRYChjRSng71zcXORVopyFntIR-GKH&s=10"
+  },
+  {
+    "barcode": "8994557291719",
+    "nama": "Bintang Mas",
+    "harga": 23000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0lkegBHzXCe3p-UwSRjlyfR2vlX0TtlzGOZV9tjuzA&s=10"
+  },
+  {
+    "barcode": "8998989110167",
+    "nama": "Surya Gudang Garam 16",
+    "harga": 37000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VNSGEgvfet-OS88E_QAK_b3xVINh9jZKb12HaTxmKg&s=10"
+  },
+  {
+    "barcode": "8998989300261",
+    "nama": "Surya Gudang Garam 12",
+    "harga": 28000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YUkt3v38rc3Po9SlnzzPTFEPqL3SyaMhnQNcaOk4pw&s=10"
+  },
+  {
+    "barcode": "8999909000544",
+    "nama": "Malboro Black 20",
+    "harga": 42000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7UZnQfcfffXZLk8YJwP-XRAjP3uvkZbjkjhtsBgwgQ&s=10"
+  },
+  {
+    "barcode": "8999909982000",
+    "nama": "Sempurna Mild 12",
+    "harga": 27000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHxEsrupu4sYmD4TPwqDuFg-pGrT1zg_H0obWqXEDYIQ&s=10"
+  },
+  {
+    "barcode": "8999909002821",
+    "nama": "Malboro Black 16",
+    "harga": 33000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnZmBTGkqo37LX9spQolpl28O-GV9ZnIc_kcKRjB5evS8Wi2aQAAnQsk&s=10"
+  },
+  {
+    "barcode": "8998989100120",
+    "nama": "Gudang garam patte",
+    "harga": 28000,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/MTA-2582269/gudang-garam_gudang-garam-filter-internasional--12-batang--bungkus-_full03.jpg"
+  },
+  {
+    "barcode": "8997223481087",
+    "nama": "Nation Bold",
+    "harga": 26000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBnhpYCnxCCBOgWI7YDTkXS8bULuIe-bNF3ilc0QyRw&s=10"
+  },
+  {
+    "barcode": "8999909010567",
+    "nama": "Dji sam Soe 16",
+    "harga": 29000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Xkh_GtsQNT-rCFzLeIr65SMjZ2lTw4YpmmuyQA3jcg&s=10"
+  },
+  {
+    "barcode": "76164217",
+    "nama": "Malboro Red Besar",
+    "harga": 53000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yrkQ1QJYC5-eJyH8kCrSlaYKiAdltJA8efIEKZKCJA&s=10"
+  },
+  {
+    "barcode": "8993989381609",
+    "nama": "Classmild Purple",
+    "harga": 30000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZYWr7ri0aWMAqMOosc_vDtRGmNmjH6O2FmIAf9CmJQ&s=10"
+  },
+  {
+    "barcode": "8997032821418",
+    "nama": "Esse Juicy 20",
+    "harga": 43000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8d-q22skcb_s_yhzVJPP1hOd02UD5BOSC6g&s"
+  },
+  {
+    "barcode": "8991906106267",
+    "nama": "Djarum 12 ??",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "89981108",
+    "nama": "Lucky Strike",
+    "harga": 33000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5Lx1IDRxpR6a5bT6Q19ysNCKO6Lj7z0r2PEsyNi80Q&s=10"
+  },
+  {
+    "barcode": "8999909000773",
+    "nama": "Malboro Black 12",
+    "harga": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSloo3e_VCW3CkjvhenughC9OKUbsGqgPvU4Fk3ouY9Jw&s=10"
+  },
+  {
+    "barcode": "8991906106304",
+    "nama": "Djarum super kretek 12",
+    "harga": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkJsjoLJXVqKFYJ9gdL6IuWTIl7g4kOvDRs0slHCEKg&s=10"
+  },
+  {
+    "barcode": "8991906106243",
+    "nama": "76 Mangga",
+    "harga": 16000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LvZxndn84Ru8-kofr8suzh-yJv0ElPZ4YqSN_KGbbg&s=10"
+  },
+  {
+    "barcode": "8999909012059",
+    "nama": "Dji sam soe premium",
+    "harga": 24000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvknlXYYhG5YPVO549TL1NUSkbckohRk-w8VzrtcAJ3w&s=10"
+  },
+  {
+    "barcode": "8998667100206",
+    "nama": "Paramex",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRC4oILMAyhAjJkrVN_sHv8w2dc8YRyCQJm1ibO9k9QA&s=10"
+  },
+  {
+    "barcode": "8991002105454",
+    "nama": "Kapal Api Sachet",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y7XGVue5HMMmFr2yMnnbHTWQbwid5YgN7azT0N_6qg&s=10"
+  },
+  {
+    "barcode": "8992761136017",
+    "nama": "Coca Cola Besar",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzKRD-eOoZo_sArG0LMjDhRO96Eqi7Pi6Jcg&s"
+  },
+  {
+    "barcode": "8992761136031",
+    "nama": "Sprite Besar",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FUeu_n4ngeNxV8jAjR3FVDQdvIN0j6IMIijDD3MHwKL44o6EArA6flE&s=10"
+  },
+  {
+    "barcode": "8991002105409",
+    "nama": "Kapal Api Besar",
+    "harga": 35000,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//94/MTA-9524640/kapal_api_kopi_bubuk_kapal_api_semangat_380gram_full01_hehgtwc4.jpg"
+  },
+  {
+    "barcode": "8992946533969",
+    "nama": "Minyak Goreng Sawit Fitri",
+    "harga": 20000,
+    "image": "https://binakaryaprima.com/wp-content/uploads/2024/02/fitri-kemasan-botol_1606800001.webp"
+  },
+  {
+    "barcode": "007099650017",
+    "nama": "Kecap Manis Botol",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESpSzpYPh5mvvS6Yg3QybOANs6L3heVT45Q&s"
+  },
+  {
+    "barcode": "8997131350222",
+    "nama": "Saus Botol",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHGeR3woXJ35Q3Q77mrAT5Ffq9mIK67oVaBl7VYc3gw&s=10"
+  },
+  {
+    "barcode": "711844110113",
+    "nama": "Kecap ABC Kecil",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3WAERa6wVBBHnO7oBuE1mDwkRyGJIaFrmOrGbIaJaA&s=10"
+  },
+  {
+    "barcode": "711844120433",
+    "nama": "Saus ABC Kecil",
+    "harga": 9000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvoBPKuATTfeu4l76e5ocr8FvL3Q0hdOefneNq87BBg&s=10"
+  },
+  {
+    "barcode": "711844110083",
+    "nama": "ABC kecap manis jumbo ??",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992984920110",
+    "nama": "cuka dapur",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpry0_cxPQgbG-URNZ0z2PoFxBZVG9K0RMgRkVW8hvsw&s=10"
+  },
+  {
+    "barcode": "8999999706180",
+    "nama": "Pepsodent Jumbo",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF02ZQjIg6cwJmefXHm5HaYfCXXSfuD20rozIa0Zrwm6gyh5EnDtiHvHOc&s=10"
+  },
+  {
+    "barcode": "8999999706173",
+    "nama": "Pepsodent Sedang",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgmyHr1LvV0Ud394NvOLOFTm_UDjC0fl5LX0-P_3-ug&s=10"
+  },
+  {
+    "barcode": "8999999706081",
+    "nama": "Pepsodent Kecil",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipNvs-ONkiRBB3EF2Efmn1xryTsjUlkfj9bRG-fdHdA&s=10"
+  },
+  {
+    "barcode": "8999999567651",
+    "nama": "Lifebuoy Merah",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14xNUP97izvGgBq6uio8IHYBh03YEQxXvLA&s"
+  },
+  {
+    "barcode": "8999999614935",
+    "nama": "Lifebuoy Biru",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYN1aQjPRANM975f1BuBN6bf5Ov8JctTSGlg&s"
+  },
+  {
+    "barcode": "8992946511790",
+    "nama": "Shinzui Hijau",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SmPWVweMVrhO7qiMK5Y2n-IZlelv8mCcn3CESesM3Q&s=10"
+  },
+  {
+    "barcode": "8992946512285",
+    "nama": "Shinzui Pink",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzjVxDs0SpL0DhhuIPJeRV12dAciIsVvYlS162hwqWA&s=10"
+  },
+  {
+    "barcode": "8999999001124",
+    "nama": "Lifebuoy Biru Cair",
+    "harga": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55-wkbd5kKNBW6XEbTnYg5HsM7yR7F6aKxu_5zoBrrA&s=10"
+  },
+  {
+    "barcode": "8999999027278",
+    "nama": "Lifebuoy Kuning Cair",
+    "harga": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTatvJmjMElAimSBPs_aAsohvgsTkHInd3-PPb7N1Kw&s=10"
+  },
+  {
+    "barcode": "8999999606794",
+    "nama": "Lifebuoy Merah Cair",
+    "harga": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-Iq8WiGr0b9atddRbrqtJCAMZ-Lk0oeu98zWFG_33g&s=10"
+  },
+  {
+    "barcode": "8999999059781",
+    "nama": "Sunlight Kecil",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbegpUmy2ux4a-DRJrlrdS-iRlVblBYp-7OA&s"
+  },
+  {
+    "barcode": "8999999585297",
+    "nama": "Sunlight Sedang",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBKPCdtgmH3ZPTGsPd06JflCdpW3AZgzV8CG65TWY_Q&s=10"
+  },
+  {
+    "barcode": "8999999589189",
+    "nama": "Sunlight Jumbo",
+    "harga": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBKPCdtgmH3ZPTGsPd06JflCdpW3AZgzV8CG65TWY_Q&s=10"
+  },
+  {
+    "barcode": "8998866607353",
+    "nama": "Daia Biru Jumbo",
+    "harga": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBmP5uH6vQ409uQoiHp6fQ4D-OpaLGqMFYwxQgWklAA&s=10"
+  },
+  {
+    "barcode": "8998866608725",
+    "nama": "Daia Pink Jumbo",
+    "harga": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOVHnOkwpsW0vQvC8N4-kK8QnhS3-95HCmRekYLNSXw&s=10"
+  },
+  {
+    "barcode": "8998866610261",
+    "nama": "Daia Ungu Kecil",
+    "harga": 6000,
+    "image": "https://coreimages.lottemart.co.id/ord/06/1076949000"
+  },
+  {
+    "barcode": "8998866609043",
+    "nama": "Daia Pink Sedang",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb10LhZeS7327mJg5YDwYwqpWZmwpwEa5gJOcoPZMu0kp2PJ1zuzlkobM&s=10"
+  },
+  {
+    "barcode": "998506608748",
+    "nama": "Daia Pink Kecil",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfd1nxPZPRI8zARgAS1fy2ybURoVUoaEn-FdMYAMF45g&s=10"
+  },
+  {
+    "barcode": "8998866608459",
+    "nama": "Daia Biru Kecil",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9SwF2NNMXO0KpbAVa5vp2nd3U7XRpZFWophuxrj2JA&s=10"
+  },
+  {
+    "barcode": "8999999587727",
+    "nama": "Rinso 5000",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuPQubCNkCZnf3AOelMHrlAWip91RCBSuaeqhw3TEyQ&s=10"
+  },
+  {
+    "barcode": "8885013132083",
+    "nama": "Es krim choco malt",
+    "harga": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "805453130393",
+    "nama": "Es krim miki miki vanila cokelat",
+    "harga": 3000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013133004",
+    "nama": "Es krim miki miki double choco",
+    "harga": 3000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8997033170188",
+    "nama": "Es krim chocholate",
+    "harga": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013131987",
+    "nama": "Es krim fruizyy bluberi",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8997033170164",
+    "nama": "Es krim semangka",
+    "harga": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013130058",
+    "nama": "Chocolate krispy",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "3526013130543",
+    "nama": "Es krim nanas",
+    "harga": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013131123",
+    "nama": "Taro krispy",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013130485",
+    "nama": "Es krim Coffe krispy",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013130645",
+    "nama": "Mochi chocolate",
+    "harga": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013131109",
+    "nama": "Kerucut strawberry",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013130713",
+    "nama": "Sundoe stroberi",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8885013130706",
+    "nama": "Sundoe chocolate",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304983",
+    "nama": "Slay olai bluberi",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304549",
+    "nama": "Slay olai strawberry",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304921",
+    "nama": "Slay olai nanas",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775311608",
+    "nama": "Chocolatos kecil",
+    "harga": 500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775311479",
+    "nama": "Chocolatos dark choco",
+    "harga": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775311981",
+    "nama": "Chocolatos besar",
+    "harga": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001356753",
+    "nama": "Astor",
+    "harga": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992952925390",
+    "nama": "Mary queen",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "9999161558028",
+    "nama": "Superstar",
+    "harga": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001354124",
+    "nama": "Beng beng",
+    "harga": 2500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001350829",
+    "nama": "Wafello cokelat",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001351888",
+    "nama": "Wafello karamel",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001354001",
+    "nama": "Kalpa",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "9693637945403",
+    "nama": "Oreo cokelat",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "7622201430184",
+    "nama": "Oreo original",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8997215540853",
+    "nama": "Laris",
+    "harga": 2000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8994834009228",
+    "nama": "French friesh",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999000066",
+    "nama": "Taro barbacue",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "089686611670",
+    "nama": "Qtela balado",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "089686611519",
+    "nama": "Qtela singkong",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "911095203422",
+    "nama": "Garusa rosta",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8993327211704",
+    "nama": "Kacang telur ayam",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775001042",
+    "nama": "Pilus rasa mie goreng",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775110157",
+    "nama": "Kacang kulit garuda kecil",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775110140",
+    "nama": "Kacang kulit garuda besar",
+    "harga": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775305102",
+    "nama": "Gery rasa kelapa",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775315095",
+    "nama": "Gery rasa sweet cheese",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775315057",
+    "nama": "Gery rasa cokelat",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001302637",
+    "nama": "Roma malkisr cokelar",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8993053121407",
+    "nama": "Paseo Oranye",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001318980",
+    "nama": "Better",
+    "harga": 9000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304990",
+    "nama": "Sari gandum",
+    "harga": 9000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001302323",
+    "nama": "Malkist Ambon",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304013",
+    "nama": "Slay olai strawberry besar",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304037",
+    "nama": "Slay olai bluberi besar",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992759124354",
+    "nama": "Tissue Nice",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304020",
+    "nama": "Slay olai nanas besar",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992946531262",
+    "nama": "Minyak Goreng Sawit Fitri",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001314005",
+    "nama": "Kelapa cream cokelat",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992946535161",
+    "nama": "Minyak Rizki",
+    "harga": 11000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8998899013046",
+    "nama": "Bayclin 200ml",
+    "harga": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001301142",
+    "nama": "Roma biskuit kelapa besar",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001305041",
+    "nama": "Sandwichi",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999549503",
+    "nama": "Superpell  Lemon 280ml",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8998009040023",
+    "nama": "Teh kotak besar",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999549497",
+    "nama": "Superpell Apple 280ml",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8998009040061",
+    "nama": "Teh kotak kecil",
+    "harga": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8998009010569",
+    "nama": "Ultra milk",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999406912",
+    "nama": "Superpell Rose 770ml",
+    "harga": 17000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992696523067",
+    "nama": "Milo kotak",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8998009020186",
+    "nama": "Buavitq",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999057022",
+    "nama": "Superpell Blossom 760g",
+    "harga": 17000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999608712",
+    "nama": "Vixal extra kuat",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999608729",
+    "nama": "Vixal Kuat Harum",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "7993156077312",
+    "nama": "Sosis kotak",
+    "harga": 22000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992747180225",
+    "nama": "Vixal Extra Kuat 750g",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775311615",
+    "nama": "Kotak chocolatos kecil",
+    "harga": 12000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775005651",
+    "nama": "Kotak chocolatos dark cokelat besar",
+    "harga": 24000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992775005637",
+    "nama": "Kotak chocolatos besar",
+    "harga": 24000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001354018",
+    "nama": "Kotak kalpa",
+    "harga": 23000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001357088",
+    "nama": "Kotak Astor",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001355237",
+    "nama": "Kotak superstar",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "7622201430177",
+    "nama": "Kotak oreo",
+    "harga": 24000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304136",
+    "nama": "Kotak slai olai bruberi",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992761166038",
+    "nama": "Pulpy Extrw VIT C",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001354131",
+    "nama": "Kotak beng beng",
+    "harga": 40000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8996001304129",
+    "nama": "Kotak Slai olai strawberry",
+    "harga": 20000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8993007001465",
+    "nama": "Susu enak cokelat",
+    "harga": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992753101207",
+    "nama": "Frisan flag",
+    "harga": 14000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992702000025",
+    "nama": "Susu enak original",
+    "harga": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992761145019",
+    "nama": "Coca Cola Kecil",
+    "harga": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5OoBeVil2SkffvxI2cGR5Opvqe2b65gwWZUghBLFYw&s=10"
+  },
+  {
+    "barcode": "8999999504656",
+    "nama": "Sari murni levil",
+    "harga": 7000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8992761002015",
+    "nama": "Coca cola Sedang",
+    "harga": 6000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999195649",
+    "nama": "Sari wangi",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999999031602",
+    "nama": "Sari murni levil kotak",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999988888804",
+    "nama": "Larutan Cap Badak Apel",
+    "harga": 8000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  },
+  {
+    "barcode": "8999909010475",
+    "nama": "Dji Sam Soe Hitam 16",
+    "harga": 28000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvallQ5ZGN8H0RHyH6fe91ycZ2NbnLPmx9x-2_NqnBQ&s=10"
+  }
+]
